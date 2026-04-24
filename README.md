@@ -1,7 +1,16 @@
-Hi there 👋<br>I am Durgesh Sutariya. I am from Godhra,Gujarat. Currently I am BCA Student studying in Sigma University, Vadodara. Currently, I am Learning full Stack Development. You can check on My Projects that I have been developing from the Beginning.<br><br>
-✨About Me:
-<br>🌱 I’m currently learning Full Stack Development. 👯 I’m looking to collaborate on beginner-friendly projects and open-source initiatives. 🤔 I’m looking for help with understanding frameworks and best coding practices. 💬 Ask me about my learning journey or tips for getting started in tech!
+Durgesh Sutariya | Performance Architect & Technical Founder
 
+Engineering high-velocity digital assets and production-grade infrastructure.
+
+✨ About Me:
+
+🔭 Current Focus: Engineering scalable Next.js architectures and optimizing digital infrastructure for sub-1s load times.
+
+⚡ Specialization: Core Web Vital dominance, type-safe backend logic, and high-velocity user experiences.
+
+🏗️ DurgeshDev Systems: Bridging the gap between physical engineering excellence and digital authority for the UK industrial and service sectors.
+
+💬 Ask me about: Eliminating digital friction, Next.js performance patterns, and production-level system stability.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/durgesh-sutariya-929b82333/) 
